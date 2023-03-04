@@ -19,7 +19,6 @@ who want to add Movies, Series or Documentaries that they want to watch later on
 ![ToWatch-Screenshoot](https://user-images.githubusercontent.com/86229307/222776137-eb04933b-a658-470d-a408-516767e8d791.png)
 (https://github.com/McGavin20/ToWatch/blob/master/ToWatch/ContentView.swift#enroll-beta)
 
-
 ## 🛠 Develop
 
 - Use Xcode (version ≥ 14).
